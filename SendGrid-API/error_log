@@ -1,0 +1,9 @@
+[19-Sep-2016 20:40:21 UTC] PHP Fatal error:  Class 'Dotenv' not found in /home/eazy/public_html/email/test.php on line 8
+[19-Sep-2016 20:40:34 UTC] PHP Fatal error:  Class 'Dotenv' not found in /home/eazy/public_html/email/test.php on line 8
+[19-Sep-2016 20:40:35 UTC] PHP Fatal error:  Class 'Dotenv' not found in /home/eazy/public_html/email/test.php on line 8
+[19-Sep-2016 21:48:00 UTC] PHP Fatal error:  Call to a member function mail() on a non-object in /home/eazy/public_html/email/test.php on line 23
+[19-Sep-2016 21:49:26 UTC] PHP Fatal error:  Call to a member function mail() on a non-object in /home/eazy/public_html/email/test.php on line 23
+[19-Sep-2016 21:52:39 UTC] PHP Fatal error:  Call to a member function mail() on a non-object in /home/eazy/public_html/email/test.php on line 23
+[28-Dec-2016 05:35:08 UTC] PHP Notice:  Undefined index: name in /home/blakecodes/public_html/sendgrid/send-confirmation-email.php on line 10
+[28-Dec-2016 05:35:08 UTC] PHP Notice:  Undefined index: email in /home/blakecodes/public_html/sendgrid/send-confirmation-email.php on line 11
+[28-Dec-2016 05:35:08 UTC] PHP Notice:  Undefined index: message in /home/blakecodes/public_html/sendgrid/send-confirmation-email.php on line 12
